@@ -10,4 +10,5 @@ so like "@ server example" would send you to the server in the table named "exam
 
 # how to add servers
 add your server by adding something along the lines of this to the table "servers"
+
 ["servername"] = "serverip"
